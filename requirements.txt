@@ -1,4 +1,4 @@
-PyYAML==3.10
+PyYAML==5.4
 oauthlib==0.6.1
 requests==2.2.1
 requests-oauthlib==0.4.0
