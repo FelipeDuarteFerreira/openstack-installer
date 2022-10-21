@@ -1,6 +1,6 @@
 PyYAML==3.10
 oauthlib==0.6.1
-requests==2.2.1
+requests==2.20.0
 requests-oauthlib==0.4.0
 ws4py==0.3.2
 passlib
